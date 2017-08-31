@@ -8,3 +8,7 @@ Similarly, I am using <b>Ψ</b> to notify or present the P<sup>®</sup>: A New G
   - Ψ.conditional(){};
   - Ψ.traditional(){};
   - Ψ.functional(){};
+  
+## How to write or Syntax, please go through it.
+  - <b>Ψ</b>.fn(){};
+  - <b>Ψ</b>.fn($a,$b,$c,$d){};
