@@ -47,3 +47,11 @@ Similarly, I am using <b>Ψ</b> to notify or present the P<sup>®</sup>: A New G
 };
 ```
 }[];
+
+
+We can go for also, let say - short notations:-
+ - Ψ.al(){};
+ - Ψ.cl(){};
+ - Ψ.tl(){};
+ - Ψ.fn(){};
+  
