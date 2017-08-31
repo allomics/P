@@ -12,3 +12,38 @@ Similarly, I am using <b>Ψ</b> to notify or present the P<sup>®</sup>: A New G
 ## How to write or Syntax, please go through it.
   - <b>Ψ</b>.fn(){};
   - <b>Ψ</b>.fn($a,$b,$c,$d){};
+  
+<b>Ψ</b>.actional(){
+
+<b>Ψ</b>.additional(){};
+```
+Ψ.additional(){
+   Ψ.fn($a,$b,$c,$d){};
+   return;
+};
+```
+
+<b>Ψ</b>.conditional(){};
+```
+Ψ.conditional(){
+   Ψ.fn($a,$b,$c,$d){};
+   return;
+};
+```
+
+<b>Ψ</b>.traditional(){};
+```
+Ψ.traditional(){
+   Ψ.fn($a,$b,$c,$d){};
+   return;
+};
+```
+
+<b>Ψ</b>.functional(){};
+```
+Ψ.functional(){
+   Ψ.fn($a,$b,$c,$d){};
+   return;
+};
+```
+}[];
