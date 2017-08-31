@@ -1,3 +1,3 @@
 # P<sup>®</sup>: A New Generation Programming Language for 128-bit Architecture.
 
-by Prabhat Kumar, Allomics, CEO, Founder & Scientist.
+<b>by</b> Prabhat Kumar - CEO, Founder & Scientist, Quantumomics, Inc.
