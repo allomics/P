@@ -48,6 +48,8 @@ Similarly, I am using <b>Ψ</b> to notify or present the P<sup>®</sup>: A New G
 ```
 }[];
 
+Note:- Ψ.actional, is an Immediately Invoked Function Expressions (IIFE), with `[]` suffix before curly braces and termination colon - like `}[];`.
+
 
 We can go for also, let say - short notations:-
 ```
