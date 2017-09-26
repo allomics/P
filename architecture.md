@@ -10,8 +10,9 @@ Similarly, I am using <b>Ψ</b> to notify or present the P<sup>®</sup>: A New G
   - Ψ.functional(){};
   
 ## How to write or Syntax, please go through it.
-  - <b>Ψ</b>.fn(){};
-  - <b>Ψ</b>.fn($a,$b,$c,$d){};
+  - <b>Ψ</b>.fn("____","_________",( ){ });
+  
+  - <b>Ψ</b>.fn("____","_________",($a,$b,$c,$d){ });
   
 <b>Ψ</b>.actional(){
 
